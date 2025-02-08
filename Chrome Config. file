@@ -1,0 +1,3 @@
+mcxToProfile.py 
+--plist com.google.Chrome 
+--identifier com.google.Chrome
